@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Welcome! This is Zihao, PhD student at Fudan University.
+
+![ZihaoZhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZihaoZhao&show_icons=true)

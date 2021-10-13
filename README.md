@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Welcome! This is Zihao, PhD student at Fudan University.
 
-![ZihaoZhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZihaoZhao&show_icons=true?count_private=true)
+![ZihaoZhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZihaoZhao&show_icons=true&count_private=true)
